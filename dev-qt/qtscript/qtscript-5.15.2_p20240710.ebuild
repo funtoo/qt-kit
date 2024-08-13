@@ -1,12 +1,12 @@
 # Distributed under the terms of the GNU General Public License v2
 
 EAPI=7
-KDE_ORG_COMMIT="572daa83e990ce88cca27909470c5404657ec9de"
+KDE_ORG_COMMIT="182ceff6560f68d70017ab980186a6106fd126a6"
 
 inherit qt5-build
 
 DESCRIPTION="Application scripting library for the Qt5 framework (deprecated)"
-SRC_URI="https://invent.kde.org/qt/qt/qtscript/-/archive/572daa83e990ce88cca27909470c5404657ec9de/qtscript-572daa83e990ce88cca27909470c5404657ec9de.tar.bz2 -> qtscript-572daa83e990ce88cca27909470c5404657ec9de.tar.bz2"
+SRC_URI="https://invent.kde.org/qt/qt/qtscript/-/archive/182ceff6560f68d70017ab980186a6106fd126a6/qtscript-182ceff6560f68d70017ab980186a6106fd126a6.tar.bz2 -> qtscript-182ceff6560f68d70017ab980186a6106fd126a6.tar.bz2"
 
 KEYWORDS="*"
 
