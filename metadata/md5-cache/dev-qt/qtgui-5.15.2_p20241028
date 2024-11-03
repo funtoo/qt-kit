@@ -12,6 +12,6 @@ RDEPEND=dev-libs/glib:2 =dev-qt/qtcore-5.15.2*:5= dev-util/gtk-update-icon-cache
 REQUIRED_USE=|| ( eglfs linuxfb vnc X ) accessibility? ( dbus X ) eglfs? ( egl ) ibus? ( dbus ) libinput? ( udev ) X? ( gles2-only? ( egl ) )
 RESTRICT=test
 SLOT=5/5.15.2
-SRC_URI=https://invent.kde.org/qt/qt/qtbase/-/archive/ab13e81917207959785ad0185a3a9974e552a7f5/qtbase-ab13e81917207959785ad0185a3a9974e552a7f5.tar.bz2 -> qtbase-ab13e81917207959785ad0185a3a9974e552a7f5.tar.bz2
+SRC_URI=https://invent.kde.org/qt/qt/qtbase/-/archive/974c2ca338535cbe2e3121ad7ffacf6fe574e8d3/qtbase-974c2ca338535cbe2e3121ad7ffacf6fe574e8d3.tar.bz2 -> qtbase-974c2ca338535cbe2e3121ad7ffacf6fe574e8d3.tar.bz2
 _eclasses_=estack	43ddf5aaffa7a8d0482df54d25a66a1f	eutils	6e6c2737b59a4b982de6fb3ecefd87f8	flag-o-matic	d0939f99dd528dd0c5ec25284877bf5c	kde.org	2c51d68845490f23d6f76d49cabdac5d	multilib	d410501a125f99ffb560b0c523cd3d1e	qt5-build	ce4c233ea772c3d2901fdb552980f2f7	toolchain-funcs	24921b57d6561d87cbef4916a296ada4	virtualx	401b718cc14d43a5a7fbe062c4851ba5
-_md5_=cfc0d1d279441974a8b678192d26740e
+_md5_=cc355cd8253232c79adf5cf9d2c79719
