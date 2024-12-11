@@ -1,12 +1,12 @@
 # Distributed under the terms of the GNU General Public License v2
 
 EAPI=7
-KDE_ORG_COMMIT="02e1e963ec9492bb1620b3ac3fc6ffc2ff280778"
+KDE_ORG_COMMIT="64398dfca74a6d4c37d51b56ecfcd1d7ccb6e533"
 
 inherit qt5-build
 
 DESCRIPTION="State Chart XML (SCXML) support library for the Qt5 framework"
-SRC_URI="https://invent.kde.org/qt/qt/qtscxml/-/archive/02e1e963ec9492bb1620b3ac3fc6ffc2ff280778/qtscxml-02e1e963ec9492bb1620b3ac3fc6ffc2ff280778.tar.bz2 -> qtscxml-02e1e963ec9492bb1620b3ac3fc6ffc2ff280778.tar.bz2"
+SRC_URI="https://invent.kde.org/qt/qt/qtscxml/-/archive/64398dfca74a6d4c37d51b56ecfcd1d7ccb6e533/qtscxml-64398dfca74a6d4c37d51b56ecfcd1d7ccb6e533.tar.bz2 -> qtscxml-64398dfca74a6d4c37d51b56ecfcd1d7ccb6e533.tar.bz2"
 
 KEYWORDS="*"
 
